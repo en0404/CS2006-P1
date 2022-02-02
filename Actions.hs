@@ -2,7 +2,7 @@ module Actions where
 
 import World
 
--- hiiiiiiiiii
+-- helllo
 
 actions :: String -> Maybe Action
 actions "go"      = Just go
